@@ -7,4 +7,5 @@ ipykernel==5.2.0
 jsonlines==1.2.0
 pytest==5.3.1
 nltk
+tensorflow
 streamlit
