@@ -6,6 +6,5 @@ gitpython==3.0.8
 ipykernel==5.2.0
 jsonlines==1.2.0
 pytest==5.3.1
-transformers==3.0.0
 nltk
 streamlit
