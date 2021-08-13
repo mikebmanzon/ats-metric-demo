@@ -1,0 +1,8 @@
+allennlp==1.2.0
+transformers==3.2.0
+bert-score
+Cython
+gitpython==3.0.8
+ipykernel==5.2.0
+jsonlines==1.2.0
+pytest==5.3.1
